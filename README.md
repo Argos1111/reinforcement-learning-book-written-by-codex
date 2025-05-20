@@ -1,3 +1,3 @@
 # reinforcement-learning-book-written-by-codex
 
-This repository gathers chapters and code snippets for a book on reinforcement learning created with the help of Codex. The aim is to build a concise resource that explains key algorithms and provides practical examples.
+このプロジェクトは、強化学習に関する入門本をOpenAIのCodexを主に使って執筆するものです。人間によるプロンプトで制御はしていますが、基本的にAIの応答がそのまま出ているため、内容の信憑性については適宜確認が必要です。
